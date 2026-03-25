@@ -5,19 +5,19 @@
 A comprehensive machine learning study comparing 6 classification algorithms for heart disease prediction on the UCI Cleveland dataset, achieving **88.52% accuracy** with reproducible feature importance validation.
 ---
 
-## 🎯 **Project Overview**
+##  **Project Overview**
 
 This project was developed as part of the **MSc Data Science Individual Project (7PAM2002)** at the **University of Hertfordshire** (Semester B, 2025/2026).
 
 **Objective:** Develop and compare machine learning models for binary heart disease classification, optimize hyperparameters, and provide reproducible feature importance analysis.
 
 **Key Achievements:**
-- ✅ **88.52% accuracy** with Random Forest (best model)
-- ✅ **+11.52% improvement** over 1989 baseline (Detrano et al.)
-- ✅ **+2.02% improvement** over 2013 state-of-the-art (Alizadehsani et al.)
-- ✅ **92.86% sensitivity** (recall) - only 2/28 diseased patients missed
-- ✅ **0.96 ROC-AUC** - excellent discrimination
-- ✅ Reproducible permutation importance methodology
+-  **88.52% accuracy** with Random Forest (best model)
+-  **+11.52% improvement** over 1989 baseline (Detrano et al.)
+-  **+2.02% improvement** over 2013 state-of-the-art (Alizadehsani et al.)
+-  **92.86% sensitivity** (recall) - only 2/28 diseased patients missed
+-  **0.96 ROC-AUC** - excellent discrimination
+-  Reproducible permutation importance methodology
 
 ---
 
