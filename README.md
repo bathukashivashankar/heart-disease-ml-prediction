@@ -66,10 +66,10 @@ Because this is anonymised, publicly available data, the project is a secondary 
 
 ## Files in this Repository
 
-- `heart_disease_analysis.ipynb` – final Jupyter notebook with full pipeline (EDA, preprocessing, models, tuning, permutation importance, plots). 
+- `Notebook (24071919) heart_disease_analysis.ipynb` – final Jupyter notebook with full pipeline (EDA, preprocessing, models, tuning, permutation importance, plots). 
 - `images/` – folder containing all figures used in the notebook and Final Project Report (distributions, correlations, ROC curves, feature‑importance plots).  
 - `requirements.txt` – Python dependencies needed to run the notebook.  
-- `Final_Project_Report.pdf` – Final Project Report submitted for 7PAM2002, matching the code in this repository. 
+- `(24071919) heart_disease_analysis.pdf` – Final Project Report submitted for 7PAM2002-0206-2025, matching the code in this repository. 
 
 ***
 
@@ -83,7 +83,7 @@ Because this is anonymised, publicly available data, the project is a secondary 
    ```
 
 3. Download `processed.cleveland.data` from the UCI link above and place it next to `heart_disease_analysis.ipynb` (or update the data path in the first cell).  
-4. Start Jupyter and open `heart_disease_analysis.ipynb`:
+4. Start Jupyter and open `Notebook (24071919) heart_disease_analysis.ipynb`:
 
    ```bash
    jupyter notebook
