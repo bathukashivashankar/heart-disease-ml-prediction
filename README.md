@@ -6,8 +6,7 @@ Using the UCI Cleveland Heart Disease dataset
 <https://archive.ics.uci.edu/dataset/45/heart+disease>
 
 Comparative machine‑learning study on the UCI Cleveland Heart Disease dataset, evaluating **6 classifiers** with hyperparameter tuning and test‑set permutation importance to achieve **88.52% accuracy and 96.43%** sensitivity for binary heart‑disease prediction.
-paste.txt
-+1
+
 
 ***
 
@@ -66,7 +65,8 @@ Because this is anonymised, publicly available data, the project is a secondary 
 
 ## Files in this Repository
 
-- `Notebook (24071919) heart_disease_analysis.ipynb` – final Jupyter notebook with full pipeline (EDA, preprocessing, models, tuning, permutation importance, plots). 
+- `Notebook (24071919) heart_disease_analysis.ipynb` – final Jupyter notebook with full pipeline (EDA, preprocessing, models, tuning, permutation importance, plots).
+- processed.cleveland.data.csv – CSV version of the UCI Cleveland Heart Disease dataset used in this project, containing 303 patient records with 13 clinical features and the target variable.
 - `images/` – folder containing all figures used in the notebook and Final Project Report (distributions, correlations, ROC curves, feature‑importance plots).  
 - `requirements.txt` – Python dependencies needed to run the notebook.  
 - `(24071919) heart_disease_analysis.pdf` – Final Project Report submitted for 7PAM2002-0206-2025, matching the code in this repository. 
