@@ -70,7 +70,7 @@ Because this is anonymised, publicly available data, the project is a secondary 
 - `images/` – folder containing all figures used in the notebook and Final Project Report (distributions, correlations, ROC curves, feature‑importance plots).  
 - `requirements.txt` – Python dependencies needed to run the notebook.  
 - `(24071919) heart_disease_analysis.pdf` – Final Project Report submitted for 7PAM2002-0206-2025, matching the code in this repository. 
-
+- `(Heart Disease Prediction Using Machine Learning.pdf)` - presentation slides 
 ***
 
 ## How to Run
